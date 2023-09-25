@@ -1,0 +1,60 @@
+* *Firewalls, Intrusion detection system ( IDS ), Intrusion Prevention system ( IPS )* - ***workings, use & types***
+
+
+# *ICS/Scada Operations*
+
+![images](https://user-images.githubusercontent.com/71017420/188329134-a576d3d5-c55a-4d18-a392-53393576b0fa.jpg)
+
+## Basics of ICS Pentesting (paid/free) - 
+
+### Paid 
+
+* [Fundamentals of ICS/SCADA CyberSecurity](https://www.udemy.com/course/fundamentals-of-ot-cybersecurity/) - ***Definately recommend it. if you want to understand faster and everything is covered there.!!!***
+
+### Free 
+
+* **What is ICS, Scada, HMI mainly.**
+* **understand concept of MTU, RTU.**
+* **Difference between  IT and OT Security and what's the main difference in both compared to other.***
+* **OT is vulnerable in nature but what makes it vulnerable and why we can't resolve it by encryption.** 
+*  **Understand ICS protocols for example  Modbus, S7, Profinet, Profibus  and various other.**
+
+#### ***IMPORTANT - We can infiltrate in ICS as per configured environment and all depends on the victim's environment. you just have to explore many amazing things by yourself :)  (just research)*** 
+
+## Learning Resources!!
+
+* [Practical Industrial Control System Penetration Testing - Udemy](https://www.udemy.com/course/practical-ics-pentesting) - Recommended
+* [Hacker-Arise-Scada](https://www.hackers-arise.com/scada-hacking) - Recommedended
+* [ICS-Pentesting-Tools](https://github.com/kh4sh3i/ICS-Pentesting-Tools)
+* [Awesome-IndustryControlSystems](https://github.com/hslatman/awesome-industrial-control-system-security)
+* [ICS-Security-Tools](https://github.com/ITI/ICS-Security-Tools)
+* [ICS-Hacking](https://github.com/miguelob/ICS-Hacking)
+* [Aweasome-ICS-WriteUps](https://github.com/neutrinoguy/awesome-ics-writeups)
+* [Awesome-IOT-ICS](https://github.com/reaperb0t/awesome-iot-ics-embed-pentest) - Combined short tutorials of both ICS and IOT
+* [Infosec-reference-Scada](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/SCADA.md#talks)
+* [ICS-Pentesting-Youtube](https://youtube.com/playlist?list=PLYXlhBJ7y2_CVdbG8YGmkhJHQLsquxbu2) - Watch this too
+* [SANS ICS](https://www.youtube.com/c/SANSICSsecurity/featured) - youtube
+* [ICS Village](https://www.youtube.com/c/ICSVillage/featured) - youtube
+* [plcprofessor](https://www.youtube.com/user/plcprofessor)
+* [Brian Douglas](https://www.youtube.com/user/ControlLectures/videos)
+* [Rick-Cen-Youtube](https://www.youtube.com/c/RickCenOT)
+* [How to Pentest ICS Environments](https://security.packt.com/how-to-pentest-ics-environments)
+* [Pentesting-ICS-Systems--Overview](https://resources.infosecinstitute.com/topic/pentesting-ics-systems/) - by Infosec Institute
+* [Pentesting-ICS-Systems--Methodology](https://security.packt.com/how-to-pentest-ics-environments) - recommended
+* [scadahacker](https://scadahacker.com)
+* [ICS cybersecurity academy](https://ics-cybersecurity.academy)
+* [Cutaway-Security](https://www.youtube.com/channel/UCIYSTYxNT3D6wVFVi5r5uaA/featured) - youtube
+* [Cutaway-Security-Github](https://github.com/cutaway-security)
+* [A Collection of Resources for Getting Started in ICS/SCADA Cybersecurity](https://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity)
+* [controlthings.io](https://www.controlthings.io/home)
+* [ICS and PLC Pentesting and Hacking](https://github.com/miguelob/ICS-Hacking)
+* [Free Industrial Control System (ICS) Cyber Security Training Course](https://instrumentationtools.com/free-industrial-control-system-ics-cyber-security-training-course)
+* [CISA Training](https://www.cisa.gov/ics-training-available-through-cisa) - Recommended
+* [CISA's Training Portal](https://ics-training.inl.gov/learn) - Recommended
+  
+
+## ICS Books
+
+* Pentesting Industrial Control Systems - Packt publishing.
+* Industrial Cybersecurity: Efficiently monitor the cybersecurity posture of your ICS environment - Packt publishing.
+* Hacking Exposed Industrial Control Systems: ICS and SCADA Security Secrets & Solutions - Multiple Authors.

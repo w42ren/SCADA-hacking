@@ -23,8 +23,6 @@
 
 ## Learning Resources!!
 
-* [Practical Industrial Control System Penetration Testing - Udemy](https://www.udemy.com/course/practical-ics-pentesting) - Recommended
-* [Hacker-Arise-Scada](https://www.hackers-arise.com/scada-hacking) - Recommedended
 * [ICS-Pentesting-Tools](https://github.com/kh4sh3i/ICS-Pentesting-Tools)
 * [Awesome-IndustryControlSystems](https://github.com/hslatman/awesome-industrial-control-system-security)
 * [ICS-Security-Tools](https://github.com/ITI/ICS-Security-Tools)
